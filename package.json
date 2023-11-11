@@ -1,0 +1,11 @@
+{
+  "name": "auto-rent",
+  "version": "1.0.0",
+  "description": "server for aut-rent",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Diniz",
+  "license": "ISC"
+}
